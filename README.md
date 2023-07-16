@@ -39,6 +39,11 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - The project was inspired by various ecommerce platforms and tutorials available online.
-- Special thanks to [Name of Tutorial/Guide/Resource] for providing guidance and assistance during the development process.
+- Special thanks to my professors and friends for providing guidance and assistance during the development process.
 
-Feel free to explore the code and make it your own! If you have any questions or need further assistance, please don't hesitate to reach out. Happy coding!
+Feel free to explore the code and make it your own! 
+
+## Contact Details
+If you have any questions or need further assistance, please don't hesitate to reach out me on aryangaur408@gmail.com
+Happy coding!
+
