@@ -1,0 +1,13 @@
+**Database Name: ecom_store**
+
+**Developed by Aryan Singh Gaur**
+
+**Recommended PHP Version 5.6 and Newer**
+
+
+
+
+**Admin Login Details**
+
+Username: admin@mail.com
+Password: Password@123
