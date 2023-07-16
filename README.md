@@ -45,9 +45,9 @@ Feel free to explore the code and make it your own!
 
 ## Contact Details
 If you have any questions or need further assistance, please don't hesitate to reach me out: 
-Name- Aryan Singh Gaur
-Email- aryangaur408@gmail.com
-LinkedIn- https://www.linkedin.com/in/aryan-singh-gaur-91a539237
-Github- https://github.com/aryangaur408
+- Name- Aryan Singh Gaur
+- Email- aryangaur408@gmail.com
+- LinkedIn- https://www.linkedin.com/in/aryan-singh-gaur-91a539237
+- Github- https://github.com/aryangaur408
 Happy coding!
 
