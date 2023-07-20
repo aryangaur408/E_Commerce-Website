@@ -14,7 +14,7 @@ This repository contains the code for an ecommerce website developed using HTML,
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/aryangaur408/E_Commerce-Webite`
+1. Clone the repository: `git clone https://github.com/aryangaur408/E_Commerce-Website`
 2. Set up a local web server environment (e.g., XAMPP).
 3. Import the database file `database.sql` into your MySQL database.
 4. Configure the database connection settings in `config.php`.
