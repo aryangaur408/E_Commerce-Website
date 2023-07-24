@@ -14,11 +14,12 @@ This repository contains the code for an ecommerce website developed using HTML,
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/aryangaur408/E_Commerce-Website`
+1. Clone the repository: `git clone https://github.com/aryangaur408/E_Commerce-Website`, into your htdocs folder inside XAMPP, which will be there when you install XAMPP.
 2. Set up a local web server environment (e.g., XAMPP).
-3. Import the database file `database.sql` into your MySQL database.
-4. Configure the database connection settings in `config.php`.
-5. Start the web server and access the website in your browser.
+3. Create a database 'prutor' into XAMPP by going to 'http://localhost/phpmyadmin/', after starting you XAMPP. 
+4. Import the database file `ecom_store.sql` into your MySQL database.
+5. Configure the database connection settings in `config.php`.
+6. Start the web server and access the website in your browser.
 
 ## Usage
 
