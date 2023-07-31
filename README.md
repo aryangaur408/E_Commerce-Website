@@ -2,7 +2,7 @@
 
 This repository contains the code for an ecommerce website developed using HTML, CSS, PHP, MySQL, JavaScript, and Bootstrap. The website aims to provide a seamless and enjoyable shopping experience for customers.
 
-![E_Commerce-Website](admin_area/admin_images/Screenshot 2023-07-31 144936.png)
+![E_Commerce-Website](Screenshot 2023-07-31 144936.png)
 
 ## Features
 
